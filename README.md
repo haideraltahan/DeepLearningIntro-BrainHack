@@ -15,7 +15,12 @@ All material of the practical presentation is available in the jupyter notebook 
 * To run it on google colab,
     1. go to http://colab.research.google.com and click on `File` located in top-left corner > `Open notebook...`.
     2. Click on `Github` in the header of the opened view.
-    3. 
+    3. Copy and Paste this link `haideraltahan/DeepLearningIntro-BrainHack`.
+    4. Lastly, click on `main.ipynb`.
+* To run on your local machine,
+    1. Install Jupyter notebook using `pip install jupyter` (Assuming you have Python 3 already installed).
+    2. In your terminal, run this command `jupyter notebook`. It should open a window in your browser, if it didn't then enther this address in your browser `http://localhost:8889`.
+    3. Now navigate to `main.ipynb` and open it.
 
 # Resources
 
