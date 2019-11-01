@@ -1,7 +1,7 @@
 # Intro to Deep Learning
 ##### Jordan DeKraker & Haider Al-Tahan
 
-This is the practical component of this tutorial will focus on hands-on experience with TensorFlow. Topics will include:
+This is the practical component of this tutorial on deep learning presented in [Brain Hack Western 2019]('https://brainhackwestern.github.io'). Topics include:
 
 1.   Introduction to TensorFlow 2.0 and Keras. 
 2.   Train and evaluate  of dense and convolutional neural networks for real problems.
@@ -23,5 +23,8 @@ All material of the practical presentation is available in the jupyter notebook 
     3. Now navigate to `main.ipynb` and open it.
 
 # Resources
-
+## Theoretical
 1. Course on [Convolutional Neural Networks]('http://cs231n.stanford.edu/') from Stanford.
+
+## Practical
+1. Youtube video by TensorFlow team: https://www.youtube.com/watch?v=5ECD8J3dvDQ 
