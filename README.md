@@ -25,6 +25,7 @@ All material of the practical presentation is available in the jupyter notebook 
 # Resources
 ## Theoretical
 1. Course on [Convolutional Neural Networks]('http://cs231n.stanford.edu/') from Stanford.
+2. [Vizualization tool]('https://distill.pub/2018/building-blocks/') for interpreting Convolutional Neural Network responsivity
 
 ## Practical
 1. Youtube video by TensorFlow team: https://www.youtube.com/watch?v=5ECD8J3dvDQ 
