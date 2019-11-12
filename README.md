@@ -28,4 +28,5 @@ All material of the practical presentation is available in the jupyter notebook 
 2. [Vizualization tool](https://distill.pub/2018/building-blocks/) for interpreting Convolutional Neural Network responsivity
 
 ## Practical
-1. Youtube video by TensorFlow team: https://www.youtube.com/watch?v=5ECD8J3dvDQ 
+1. Youtube video by TensorFlow team: https://www.youtube.com/watch?v=5ECD8J3dvDQ
+2. Amazing article on Transfer Learning: https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
